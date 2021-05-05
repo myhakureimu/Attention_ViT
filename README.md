@@ -1,5 +1,4 @@
-# MOOD: Multi-level Out-of-distribution Detection
-
+# Some Drawbacks of ViT
 
 This is a [PyTorch](http://pytorch.org) implementation for exploring the feature of ViT. The methods in my experiments including [ViT](https://arxiv.org/abs/1703.01365), [IG](https://arxiv.org/abs/1703.01365), [rollout](https://arxiv.org/abs/2005.00928), [PGD](https://arxiv.org/abs/1706.06083), and also the new attack method especially for TiV to fool the attention mechanism while maintain the prediction correct. The method achieves only 0.4 cosine similarity for attention map while maintain around 100% label in imagenette data set.
 <p align="center">
