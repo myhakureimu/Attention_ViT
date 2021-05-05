@@ -21,7 +21,7 @@ We used the pretrained deep learning model [ViT](https://github.com/lukemelas/Py
 * matplotlib
 
 ### Downloading  Out-of-Distribtion Datasets
-We provide download links of [imagenette dataset](), for reproducing the experiment results, plz download the dataset and unzip it to the \Attention-ViT folder as the \Attention-ViT\data.
+We provide download links of [imagenette dataset](https://drive.google.com/drive/folders/16M-bAHSa7Z5NJp4mTKRxnKmE4IjcloTY?usp=sharing), for reproducing the experiment results, plz download the dataset and unzip it to the \Attention-ViT folder as the \Attention-ViT\data.
 
 
 
