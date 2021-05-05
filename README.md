@@ -37,7 +37,7 @@ python ViT_rollout.py
 ```
 We can find out that the rollout method is a better method for visualizing ViT network.
 <p align="center">
-<img src="./figs/rollout0IG.png" width="1000">
+<img src="./figs/rollout0IG.png" width="600">
 </p>
 
 ### PGD and AttentionAttack
