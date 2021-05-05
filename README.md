@@ -55,5 +55,7 @@ We point out the drawbacks of the attention mechanism in ViT. The attention maps
 python ViT_rollout_trend.py
 ```
 The attention maps are in the folder \panda1 and \monkey1. And you can also find them in the presentation slides \Some Draw Backs of ViT.pptx.
-And you can find the video as \ViT_rollout_trend.mp4.
+
+### Video
+You can download the video [here](https://drive.google.com/drive/folders/16M-bAHSa7Z5NJp4mTKRxnKmE4IjcloTY?usp=sharing).
 
